@@ -21,5 +21,8 @@ return [
         'crud' => [
             'class' => 'app\modules\crud\Crud',
         ],
+        'oneui' => [
+            'class' => 'app\modules\oneui\Oneui'
+        ]
     ]
 ];
